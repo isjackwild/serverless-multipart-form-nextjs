@@ -16,9 +16,3 @@ module.exports = (req, res) => {
         return;
     }
 }
-
-export const config = {
-    api: {
-      bodyParser: false,
-    },
-  }
