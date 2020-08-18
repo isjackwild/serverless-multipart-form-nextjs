@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "multiparty": "^4.2.2",
+    "next": "^9.5.2",
+    "aws-sdk": "^2.695.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-instantsearch-dom": "^6.5.0",
+    "sass": "^1.26.8",
+    "url": "^0.11.0",
+    "util": "^0.12.3"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}
